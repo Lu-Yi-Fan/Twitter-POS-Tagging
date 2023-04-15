@@ -8,7 +8,7 @@ POS Tagging system using Hidden Markov Model
 (e) Listing possible improvements, through their application to Twitter tweets.
 
 Done by :
-Lu Yi Fan
-Kaitlyn Goh Wen Jing
-Summer Thia
+Lu Yi Fan,
+Kaitlyn Goh Wen Jing,
+Summer Thia,
 Jesper Fong
